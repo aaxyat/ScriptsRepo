@@ -15,7 +15,7 @@ cd ~/Documents/git/ &&
 git clone https://github.com/vinceliuice/WhiteSur-gtk-theme theme &&
 git clone https://github.com/vinceliuice/WhiteSur-icon-theme icon &&
 git clone https://github.com/vinceliuice/WhiteSur-cursors cursor &&
-bash ~/Documents/git/theme/install.sh &&
-sudo bash ~/Documents/git/theme/tweaks.sh -d -g -b ~/Pictures/lock.jpg &&
-bash ~/Documents/git/icon/install.sh &&
-bash ~/Documents/git/cursor/install.sh
+#bash ~/Documents/git/theme/install.sh &&
+#sudo bash ~/Documents/git/theme/tweaks.sh -d -g -b ~/Pictures/lock.jpg &&
+#bash ~/Documents/git/icon/install.sh &&
+#bash ~/Documents/git/cursor/install.sh
